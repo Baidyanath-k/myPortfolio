@@ -402,6 +402,7 @@ html {
     font-family: 'Poppins', sans-serif;
     letter-spacing: 3px;
     color: #fff;
+    text-transform: uppercase
 }
 
 .skill_awesome {}
@@ -1119,7 +1120,7 @@ html {
 }
 
 .edu_sec_header p {
-    color: #C4CFDE;
+    color: #FF014F;
     font-size: 17px;
     line-height: 25px;
     text-transform: capitalize;
